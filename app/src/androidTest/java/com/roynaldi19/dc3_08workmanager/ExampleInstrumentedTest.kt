@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa08_06workmanager
+package com.roynaldi19.dc3_08workmanager
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
